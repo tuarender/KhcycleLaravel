@@ -26,13 +26,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" rel="home" href="/" title="KHCYCLE SHOP"><img src="img/logo/khcycle_logo.png"></a>
+        <a class="navbar-brand" rel="home" href="home" title="KHCYCLE SHOP"><img src="img/logo/khcycle_logo.png"></a>
     </div>
 
     <div class="collapse navbar-collapse navbar-ex1-collapse">
 
         <ul class="nav navbar-nav">
-            <li><a href="index.html">HOME</a></li>
+            <li><a href="home">HOME</a></li>
             <li><a href="product.html">PRODUCT</a></li>
             <li><a href="article.html">NEWS/ARTICLE</a></li>
             <li><a href="contact">CONTACT</a></li>
