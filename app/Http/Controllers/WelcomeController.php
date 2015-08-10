@@ -13,6 +13,6 @@ class WelcomeController extends Controller
     //
     public function index()
     {
-        return View('layouts.default');
+        return View('home');
     }
 }

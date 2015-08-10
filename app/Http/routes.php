@@ -13,6 +13,9 @@
 
 Route::get('/','WelcomeController@index');
 
+Route::get('/contact',function(){
+   return View('contact');
+});
 
 Route::get('/user/{id}', function ($id) {
     return 'User '.$id;
